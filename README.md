@@ -31,7 +31,7 @@ A pleasant and aesthetically pleasing user interface makes your visit to the web
 - A modern web browser
 
 ### Installation
-1. Clone the repository: git clone https://github.com/yourusername/beautiful-beaches-travel-website.git
+1. Clone the repository: git clone https://github.com/AYUSH-SE/responsive-travel-website.git
 2. Open the project directory: cd beautiful-beaches-travel-website
 3. Open the `index.html` file in your browser to view the website.
 
